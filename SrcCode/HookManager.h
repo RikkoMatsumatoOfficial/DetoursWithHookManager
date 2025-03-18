@@ -8,7 +8,7 @@
 #include "detours.h"
 
 #ifdef _WIN64
-#pragma comment(lib, "[x64]detours.lib")
+#pragma comment(lib, "detours.lib")
 #else
 #pragma comment(lib, "[x86]detours.lib")
 #endif
