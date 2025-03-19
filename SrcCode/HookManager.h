@@ -10,7 +10,7 @@
 #ifdef _WIN64
 #pragma comment(lib, "detours.lib")
 #else
-#pragma comment(lib, "[x86]detours.lib")
+#pragma comment(lib, "detours-x32.lib")
 #endif
 
 class HookManager {
