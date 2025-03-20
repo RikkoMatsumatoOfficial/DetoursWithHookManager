@@ -1,7 +1,7 @@
 # DetoursWithHookManager
 This is Project for Detours(with Hook Manager by issuimo)... So Enjoy to use this!!!
 
-[Install](https://github.com/RikkoMatsumatoOfficial/DetoursWithHookManager/releases/download/detourswithhookmanagerrel/DetoursWithHookManagerInstallerRelease.zip)
+[Release(Installation)](https://github.com/RikkoMatsumatoOfficial/DetoursWithHookManager/releases/download/detourswithhookmanagerrel/DetoursWithHookManagerInstallerRelease.zip)
 ## Donations
 
 [DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
